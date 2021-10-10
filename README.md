@@ -6,12 +6,12 @@ At current, I'm on research and development on deep learning-based image process
 Before joining Samsung Electronics in 2019, I received a Ph.D. degree in Electrical and Computer Engineering from Seoul National University
 I received a B.S. degree in Electronic Engineering from Sogang University.
 I have domain knowledge not only of deep learning-based algorithms but also in designing hardware accelerators. 
-My research interests include deep learning-based computer vision, object detection and tracking, and image compression.
+My research interests include deep learning-based computer vision, object detection and tracking, and image compression.  
 Please contact me for a detailed CV.
 
 ## Contact & Personal Information
 
-E-mail: [donghyeon1223@gmail.com](donghyeon1223@gmail.com)  
+E-mail: [donghyeon1223@gmail.com](mailto:donghyeon1223@gmail.com)  
 Google Scholar: [link](https://scholar.google.com/citations?user=ysXHUKcAAAAJ&hl=en)  
 LinkedIn: [https://www.linkedin.com/in/dhyeonlee/](https://www.linkedin.com/in/dhyeonlee/)  
 GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)  
@@ -29,7 +29,7 @@ color moiré in subjective assessment.
     - Super-resolution: improved subjective quality of images by a large margin
 
 **Seoul National University**, Seoul, South Korea - **_Ph.D. student_** (Mar. 2012 - Feb. 2019)  
-Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee](hjlee@capp.snu.ac.kr))
+Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
 
 - Deep learning-based image super-resolution algorithm and its hardware implementation  
     (Participated as a **Project leader**, Mar. 2017 - Feb. 2019, Sponsored by **LG Display**)
