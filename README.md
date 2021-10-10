@@ -11,10 +11,10 @@ Please contact me for a detailed CV.
 
 ## Contact & Personal Information
 
-E-mail: donghyeon1223@gmail.com  
+E-mail: [donghyeon1223@gmail.com](donghyeon1223@gmail.com)  
 Google Scholar: [link](https://scholar.google.com/citations?user=ysXHUKcAAAAJ&hl=en)  
-LinkedIn: https://www.linkedin.com/in/dhyeonlee/  
-GitHub: https://github.com/dhyeonlee  
+LinkedIn: [https://www.linkedin.com/in/dhyeonlee/](https://www.linkedin.com/in/dhyeonlee/)  
+GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)  
 
 ## Educations
 **Seoul National University**, Seoul, Korea - **_Ph.D._** in Electrical and Computer Engineering (Mar. 2021 - Feb. 2019)  
