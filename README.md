@@ -25,7 +25,7 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
 Multimedia Developmen team, System LSI division
 - Prototyping algorithms in Samsung Exynos ISP (Image Signal Processor) with lightweight CNNs
     - Demosaicing: largely improved the performance of recovering details, eliminating zipper artifacts, and
-color moiré in subjective assessment.
+color moiré in subjective assessment
     - Super-resolution: improved subjective quality of images by a large margin
 
 **Seoul National University**, Seoul, South Korea - **_Ph.D. student_** (Mar. 2012 - Feb. 2019)  
