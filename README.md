@@ -71,6 +71,10 @@ Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee
 ### Dissertion
 **Donghyeon Lee**, “On-chip memory reduction in CNN hardware design for image super-resolution”, Ph.D. Dissertation, Seoul National University, Feb. 2019.
 
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dhyeonlee/dhyeonlee.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dhyeonlee/dhyeonlee.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
