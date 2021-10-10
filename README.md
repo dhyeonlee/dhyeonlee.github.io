@@ -3,7 +3,7 @@
 <img src='./photos/ID_photo.jpg' width='17%' height='17%' align='left'/>
 I'm a Staff Deep Learning Engineer in Samsung Electronics. 
 At current, I'm on research and development on deep learning-based image processing algorithms such as demosaicing and super-resolution.
-Before joining Samsung Electronics in 2019, I received a Ph.D. degree in Electrical and Computer Engineering from Seoul National University
+Before joining Samsung Electronics in 2019, I received a Ph.D. degree in Electrical and Computer Engineering from Seoul National University.
 I received a B.S. degree in Electronic Engineering from Sogang University.
 I have domain knowledge not only of deep learning-based algorithms but also in designing hardware accelerators. 
 My research interests include deep learning-based computer vision, object detection and tracking, and image compression.  
