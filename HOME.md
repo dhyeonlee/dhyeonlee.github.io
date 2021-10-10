@@ -7,8 +7,8 @@ Before joining Samsung Electronics in 2019, I received a Ph.D. degree in Electri
 I received a B.S. degree in Electronic Engineering from Sogang University.
 I have domain knowledge not only of deep learning-based algorithms but also in designing hardware accelerators. 
 My research interests include deep learning-based computer vision, object detection and tracking, and image compression.
+Please contact me for a detailed CV.
 
-## 
 ## Contact & Personal Information
 
 E-mail: donghyeon1223@gmail.com  
@@ -24,7 +24,9 @@ GitHub: https://github.com/dhyeonlee
 **Samsung Electronics**, Hwaseong-si, Gyeonggi-do, South Korea - **_Staff Engineer_** (Mar. 2019 - Present)  
 Multimedia Developmen team, System LSI division
 - Prototyping algorithms in Samsung Exynos ISP (Image Signal Processor) with lightweight CNNs
-    - Research and development on demosaicing and image super-resolution
+    - Demosaicing: largely improved the performance of recovering details, eliminating zipper artifacts, and
+color moiré in subjective assessment.
+    - Super-resolution: improved subjective quality of images by a large margin
 
 **Seoul National University**, Seoul, South Korea - **_Ph.D. student_** (Mar. 2012 - Feb. 2019)  
 Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee](hjlee@capp.snu.ac.kr))
