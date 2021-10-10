@@ -1,6 +1,6 @@
 # Donghyeon Lee, Ph.D.
 
-<img src='./photos/ID_photo.jpg' width='15%' height='15%' align='left'/>
+<img src='./photos/ID_photo.jpg' width='17%' height='17%' align='left'/>
 I'm a Staff Deep Learning Engineer in Samsung Electronics. 
 At current, I'm on research and development on deep learning-based image processing algorithms such as demosaicing and super-resolution.
 Before joining Samsung Electronics in 2019, I received a Ph.D. degree in Electrical and Computer Engineering from Seoul National University
@@ -34,21 +34,21 @@ Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee
 - Deep learning-based image super-resolution algorithm and its hardware implementation  
     (Participated as a **Project leader**, Mar. 2017 - Feb. 2019, Sponsored by **LG Display**)
     - Hardware design of 1D filter CNN: reduced the number of parameters of a CNN to 55.6%  
-    Publications: [JETCAS '19](#hardware-design-of), [AICAS '19](#context-preserving)
+    Publications: JETCAS '19, AICAS '19
     - Image enhancement using GANs: improved image quality (PSNR 0.75 dB (×2), 0.32 dB (×4)) through modifications of discriminator network architecture and perceptual loss  
-    Publication: [Access '19](#resolution-preserving)
+    Publication: Access '19
 
 - Real-time hand detection and tracking algorithms for embedded system  
     (Participaed as a **Project leader**, Mar. 2014 - Feb. 2017, Sponsored by Hancom MDS, eWBM)
     - Custom feature extraction and object analysis in the raster scan order. The hand detection accuracy of this algorithm is 97.11%. It runs in real-time (34.9 fps) on Nvidia Jetson-TK1 embedded board.  
-    Publication: [Displays '18](#fast-hand); Demo at CES '17 Eureka Park
+    Publication: Displays '18; Demo at CES '17 Eureka Park
 
 - Lightweight image compression for timing controller (T-CON) chip in LCD  
     (Mar. 2012 - Feb. 2014, Sponsored by LG Display)
     - Image compression for LCD overdrive with compression ratio 1/12  
-    Publication: [JDT '16](#a-block-truncation-coding)
+    Publication: JDT '16
     - Visually lossless 1/3 image compression for a low-power LCD panel  
-    Publications: [TMM '16](#a-high-throughput), [Displays '15](#an-enhanced-one-dimensional)
+    Publications: TMM '16, Displays '15
 
 ## Awards
 
