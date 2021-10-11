@@ -41,7 +41,7 @@ color moiré in subjective assessment
 **Seoul National University**, Seoul, South Korea - **_Ph.D. student_** (Mar. 2012 - Feb. 2019)  
   Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
 - Deep learning-based image super-resolution algorithm and its hardware implementation  
-  (Participated as a **Project leader**, Mar. 2017 - Feb. 2019, Sponsored by **LG Display**)
+  (Participated as a **Project leader**, Mar. 2017 - Feb. 2019, Sponsored by LG Display)
     - Hardware design of 1D filter CNN: reduced the number of parameters of a CNN to 55.6%  
       Publications: JETCAS '19, AICAS '19
     - Image enhancement using GANs: improved image quality (PSNR 0.75 dB (×2), 0.32 dB (×4)) through modifications of discriminator network architecture and perceptual loss  
