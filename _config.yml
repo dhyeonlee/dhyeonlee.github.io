@@ -2,4 +2,7 @@ title: Donghyeon Lee, Ph.D.
 email: donghyeon1223@gmail.com
 linkedin_username: dhyeonlee
 github_username:  dhyeonlee
-theme: jekyll-theme-slate
+
+theme: minima
+plugins:
+  - jekyll-feed
