@@ -77,7 +77,7 @@ color moiré in subjective assessment
 [paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Lee_Wide_Receptive_Field_and_Channel_Attention_Network_for_JPEG_Compressed_CVPRW_2021_paper.html)
 - **Donghyeon Lee**, Hoseong Lee, Sangheon Lee, Kyujoong Lee, and Hyuk-Jae Lee, “Hardware Design of a Context-Preserving Filter-Reorganized CNN for Super-resolution”, IEEE Journal on Emerging and Selected Topics in Circuits and Systems (**JETCAS**), vol. 9, no. 4, pp. 612-622, Dec. 2019. 
 [paper](https://ieeexplore.ieee.org/abstract/document/8888276)
-- **Donghyeon Lee**, Sangheon Lee, Hoseong Lee, Kyujoong Lee, and Hyuk-Jae Lee, “Resolution-Preserving Generative Adversarial Networks for Image Enhancement”, IEEE Access, vol. 7, pp. 110344-110357, 2019
+- **Donghyeon Lee**, Sangheon Lee, Hoseong Lee, Kyujoong Lee, and Hyuk-Jae Lee, “Resolution-Preserving Generative Adversarial Networks for Image Enhancement”, IEEE Access, vol. 7, pp. 110344-110357, 2019.
 [paper](https://ieeexplore.ieee.org/abstract/document/8793240/)
 - **Donghyeon Lee**, Sangheon Lee, Hoseong Lee, Kyujoong Lee, and Hyuk-Jae Lee, “Context-Preserving Filter Reorganization for VDSR-Based Super-resolution," IEEE International Conference on Artificial Intelligence Circuits and Systems (**AICAS**), Mar. 2019. 
 [paper](https://ieeexplore.ieee.org/abstract/document/8771601/)
