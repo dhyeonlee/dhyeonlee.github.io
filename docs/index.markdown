@@ -83,7 +83,7 @@ color moiré in subjective assessment
 [[link]](https://ieeexplore.ieee.org/abstract/document/8771601/)
 - **Donghyeon Lee**, Jin-Sung Kim, and Hyuk-Jae Lee, “Fast hand and finger detection algorithm for interaction on Smart Display”, Elsevier Displays Journal, vol. 55, pp. 55-63, Dec. 2018.
 [[link]](https://www.sciencedirect.com/science/article/pii/S0141938217301622)
-- Hyukeun Lee, **Donghyeon Lee**, and Hyuk-Jae Lee, "A Predictive Initialization of Hidden State Parameters in a Hidden Markov Model for Hand Gesture Recognition", IEEE International Conference On Consumer Electronics (**ICCE-Asia**), Jun. 2018.
+- Hyukeun Lee, **Donghyeon Lee**, and Hyuk-Jae Lee, "A Predictive Initialization of Hidden State Parameters in a Hidden Markov Model for Hand Gesture Recognition", IEEE International Conference on Consumer Electronics (**ICCE-Asia**), Jun. 2018.
 [[link]](https://ieeexplore.ieee.org/abstract/document/8552159/)
 - Sunwoong Kim, **Donghyeon Lee**, Jin-Sung Kim, and Hyuk-Jae Lee, "A Block Truncation Coding Algorithm and Hardware Implementation Targeting 1/12 Compression for LCD Overdrive", IEEE/OSA Journal of Display Technology (**JDT**), vol. 12(4), pp. 376-389, Apr. 2016.
 [[link]](https://ieeexplore.ieee.org/abstract/document/7302518/)
