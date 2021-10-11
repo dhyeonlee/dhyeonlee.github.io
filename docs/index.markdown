@@ -6,7 +6,7 @@ layout: home
 ---
 
 <img src='./photos/ID_photo.jpg' width='17%' height='17%' align='left'/>
-I'm a Staff Deep Learning Engineer in <u>Samsung Electronics</u>. 
+I'm a Staff Deep Learning Engineer at <u>Samsung Electronics</u>. 
 At current, I'm on research and development on deep learning-based image processing algorithms for image enhancement such as demosaicing, super-resolution.
 Before joining Samsung Electronics in 2019, I received a Ph.D. degree in <u>Electrical and Computer Engineering</u> from <u>Seoul National University</u>.
 I received a B.S. degree in <u>Electronic Engineering</u> from <u>Sogang University</u>.
