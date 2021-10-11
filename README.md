@@ -21,34 +21,34 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
 **Sogang University**, Seoul, Korea, - **_B.S._** in Electronic Engineering (Mar. 2008 - Feb. 2012)
 
 ## Experiences on Research & Development
-**Samsung Electronics**, Hwaseong-si, Gyeonggi-do, South Korea - **_Staff Engineer_** (Mar. 2019 - Present)  
-Multimedia Developmen team, System LSI division
-- Prototyping algorithms in Samsung Exynos ISP (Image Signal Processor) with lightweight CNNs
-    - Demosaicing: largely improved the performance of recovering details, eliminating zipper artifacts, and
+- **Samsung Electronics**, Hwaseong-si, Gyeonggi-do, South Korea - **_Staff Engineer_** (Mar. 2019 - Present)  
+  Multimedia Developmen team, System LSI division
+    - Prototyping algorithms in Samsung Exynos ISP (Image Signal Processor) with lightweight CNNs
+        - Demosaicing: largely improved the performance of recovering details, eliminating zipper artifacts, and
 color moiré in subjective assessment
-    - Super-resolution: improved subjective quality of images by a large margin
+        - Super-resolution: improved subjective quality of images by a large margin
 
-**Seoul National University**, Seoul, South Korea - **_Ph.D. student_** (Mar. 2012 - Feb. 2019)  
-Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
+- **Seoul National University**, Seoul, South Korea - **_Ph.D. student_** (Mar. 2012 - Feb. 2019)  
+  Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
 
-- Deep learning-based image super-resolution algorithm and its hardware implementation  
-    (Participated as a **Project leader**, Mar. 2017 - Feb. 2019, Sponsored by **LG Display**)
-    - Hardware design of 1D filter CNN: reduced the number of parameters of a CNN to 55.6%  
-    Publications: JETCAS '19, AICAS '19
-    - Image enhancement using GANs: improved image quality (PSNR 0.75 dB (×2), 0.32 dB (×4)) through modifications of discriminator network architecture and perceptual loss  
-    Publication: Access '19
+    - Deep learning-based image super-resolution algorithm and its hardware implementation  
+      (Participated as a **Project leader**, Mar. 2017 - Feb. 2019, Sponsored by **LG Display**)
+        - Hardware design of 1D filter CNN: reduced the number of parameters of a CNN to 55.6%  
+        Publications: JETCAS '19, AICAS '19
+        - Image enhancement using GANs: improved image quality (PSNR 0.75 dB (×2), 0.32 dB (×4)) through modifications of discriminator network architecture and perceptual loss  
+        Publication: Access '19
 
-- Real-time hand detection and tracking algorithms for embedded system  
-    (Participaed as a **Project leader**, Mar. 2014 - Feb. 2017, Sponsored by Hancom MDS, eWBM)
-    - Custom feature extraction and object analysis in the raster scan order. The hand detection accuracy of this algorithm is 97.11%. It runs in real-time (34.9 fps) on Nvidia Jetson-TK1 embedded board.  
-    Publication: Displays '18; Demo at CES '17 Eureka Park
+    - Real-time hand detection and tracking algorithms for embedded system  
+      (Participaed as a **Project leader**, Mar. 2014 - Feb. 2017, Sponsored by Hancom MDS, eWBM)
+        - Custom feature extraction and object analysis in the raster scan order. The hand detection accuracy of this algorithm is 97.11%. It runs in real-time (34.9 fps) on Nvidia Jetson-TK1 embedded board.  
+        Publication: Displays '18; Demo at CES '17 Eureka Park
 
-- Lightweight image compression for timing controller (T-CON) chip in LCD  
-    (Mar. 2012 - Feb. 2014, Sponsored by LG Display)
-    - Image compression for LCD overdrive with compression ratio 1/12  
-    Publication: JDT '16
-    - Visually lossless 1/3 image compression for a low-power LCD panel  
-    Publications: TMM '16, Displays '15
+    - Lightweight image compression for timing controller (T-CON) chip in LCD  
+      (Mar. 2012 - Feb. 2014, Sponsored by LG Display)
+        - Image compression for LCD overdrive with compression ratio 1/12  
+        Publication: JDT '16
+        - Visually lossless 1/3 image compression for a low-power LCD panel  
+        Publications: TMM '16, Displays '15
 
 ## Awards
 
