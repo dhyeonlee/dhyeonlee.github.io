@@ -74,23 +74,23 @@ color moiré in subjective assessment
 ### Journal and Conference articles
 
 - **Donghyeon Lee**, Chulhee Lee, and Taesung Kim, “Wide Receptive Field and Channel Attention Network for JPEG Compressed Image Deblurring”, IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (**CVPRW**), Jun. 2021. 
-[paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Lee_Wide_Receptive_Field_and_Channel_Attention_Network_for_JPEG_Compressed_CVPRW_2021_paper.html)
+[[link]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Lee_Wide_Receptive_Field_and_Channel_Attention_Network_for_JPEG_Compressed_CVPRW_2021_paper.html)
 - **Donghyeon Lee**, Hoseong Lee, Sangheon Lee, Kyujoong Lee, and Hyuk-Jae Lee, “Hardware Design of a Context-Preserving Filter-Reorganized CNN for Super-resolution”, IEEE Journal on Emerging and Selected Topics in Circuits and Systems (**JETCAS**), vol. 9, no. 4, pp. 612-622, Dec. 2019. 
-[paper](https://ieeexplore.ieee.org/abstract/document/8888276)
+[[link]](https://ieeexplore.ieee.org/abstract/document/8888276)
 - **Donghyeon Lee**, Sangheon Lee, Hoseong Lee, Kyujoong Lee, and Hyuk-Jae Lee, “Resolution-Preserving Generative Adversarial Networks for Image Enhancement”, IEEE Access, vol. 7, pp. 110344-110357, 2019.
-[paper](https://ieeexplore.ieee.org/abstract/document/8793240/)
+[[link]](https://ieeexplore.ieee.org/abstract/document/8793240/)
 - **Donghyeon Lee**, Sangheon Lee, Hoseong Lee, Kyujoong Lee, and Hyuk-Jae Lee, “Context-Preserving Filter Reorganization for VDSR-Based Super-resolution," IEEE International Conference on Artificial Intelligence Circuits and Systems (**AICAS**), Mar. 2019. 
-[paper](https://ieeexplore.ieee.org/abstract/document/8771601/)
+[[link]](https://ieeexplore.ieee.org/abstract/document/8771601/)
 - **Donghyeon Lee**, Jin-Sung Kim, and Hyuk-Jae Lee, “Fast hand and finger detection algorithm for interaction on Smart Display”, Elsevier Displays Journal, vol. 55, pp. 55-63, Dec. 2018.
-[paper](https://www.sciencedirect.com/science/article/pii/S0141938217301622)
+[[link]](https://www.sciencedirect.com/science/article/pii/S0141938217301622)
 - Hyukeun Lee, **Donghyeon Lee**, and Hyuk-Jae Lee, "A Predictive Initialization of Hidden State Parameters in a Hidden Markov Model for Hand Gesture Recognition", IEEE ICCE-Asia, Jun. 2018.
-[paper](https://ieeexplore.ieee.org/abstract/document/8552159/)
+[[link]](https://ieeexplore.ieee.org/abstract/document/8552159/)
 - Sunwoong Kim, **Donghyeon Lee**, Jin-Sung Kim, and Hyuk-Jae Lee, "A Block Truncation Coding Algorithm and Hardware Implementation Targeting 1/12 Compression for LCD Overdrive", IEEE/OSA Journal of Display Technology (**JDT**), vol. 12(4), pp. 376-389, Apr. 2016.
-[paper](https://ieeexplore.ieee.org/abstract/document/7302518/)
+[[link]](https://ieeexplore.ieee.org/abstract/document/7302518/)
 - Sunwoong Kim, **Donghyeon Lee**, Jin-Sung Kim, and Hyuk-Jae Lee, "A High-Throughput Hardware Design of a One-Dimensional SPIHT Algorithm," IEEE Transactions on Multimedia (**TMM**), vol. 18(3), pp. 392-404, Mar. 2016.
-[paper](https://ieeexplore.ieee.org/abstract/document/7370806/)
+[[link]](https://ieeexplore.ieee.org/abstract/document/7370806/)
 - Sunwoong Kim, **Donghyeon Lee**, Hyun Kim, Nguyen Xuan Truong, and Jin-Sung Kim, "An enhanced one-dimensional SPIHT algorithm and its implementation for TV systems," Elsevier Displays Journal, vol. 40, pp. 68-77, Dec. 2015.
-[paper](https://www.sciencedirect.com/science/article/pii/S0141938215000943)
+[[link]](https://www.sciencedirect.com/science/article/pii/S0141938215000943)
 
 ### Dissertion
-**Donghyeon Lee**, “On-chip memory reduction in CNN hardware design for image super-resolution”, Ph.D. Dissertation, Seoul National University, Feb. 2019. [url](https://s-space.snu.ac.kr/handle/10371/151952)
+**Donghyeon Lee**, “On-chip memory reduction in CNN hardware design for image super-resolution”, Ph.D. Dissertation, Seoul National University, Feb. 2019. [[link]](https://s-space.snu.ac.kr/handle/10371/151952)
