@@ -17,7 +17,7 @@ My research interests include deep learning-based computer vision, object detect
 
 ## Contact & Personal Information
 
-E-mail: [donghyeon1223@gmail.com](mailto:donghyeon1223@gmail.com)  
+E-mail: [donghyeon1223(at)gmail.com](mailto:donghyeon1223@gmail.com)  
 Google Scholar: [profile](https://scholar.google.com/citations?user=ysXHUKcAAAAJ&hl=en)  
 LinkedIn: [https://www.linkedin.com/in/dhyeonlee/](https://www.linkedin.com/in/dhyeonlee/)  
 GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)  
