@@ -34,9 +34,8 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
 **Samsung Electronics**, Hwaseong-si, Gyeonggi-do, South Korea - **_Staff Engineer_** (Mar. 2019 - Present)  
   Multimedia Developmen team, System LSI division
 - Prototyping algorithms in Samsung Exynos ISP (Image Signal Processor) with lightweight CNNs
-    - Demosaicing: largely improved the performance of recovering details, eliminating zipper artifacts, and
-color moiré in subjective assessment
-    - Super-resolution: improved subjective quality of images by a large margin. Specifically, focused on reducing jagging artifacts while enhancing the details of images
+    - Demosaicing and image enhancement: improved recovering details and eliminated zipper artifacts and color moiré
+    - Single-image super-resolution: enhanced details of images by training CNN using GANs, and minimized jagging artifacts of images
 
 **Seoul National University**, Seoul, South Korea - **_Ph.D. student_** (Mar. 2012 - Feb. 2019)  
   Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
