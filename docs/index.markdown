@@ -33,9 +33,9 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
 ## Experiences on Research & Development
 **Samsung Electronics**, Hwaseong-si, Gyeonggi-do, South Korea - **_Staff Engineer_** (Mar. 2019 - Present)  
   Multimedia Developmen team, System LSI division
-- Prototyping algorithms in Samsung Exynos ISP (Image Signal Processor) with lightweight CNNs
-    - Demosaicing and image enhancement: improved recovering details, and eliminated zipper artifacts and color moiré
-    - Single-image super-resolution: enhanced details of images by training CNN using GANs, and minimized jagging artifacts of images
+- Development of algorithms in Samsung Exynos ISP (Image Signal Processor) with lightweight CNNs
+    - Developed demosaicing, denoising, image enhancement and super-resolution algorithms
+    - Generated datasets based on target applications using Samsung Exynos ISP chain
 
 **Seoul National University**, Seoul, South Korea - **_Ph.D. student_** (Mar. 2012 - Feb. 2019)  
   Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
