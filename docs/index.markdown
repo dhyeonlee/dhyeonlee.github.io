@@ -36,6 +36,7 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
 - Development of algorithms for Samsung Exynos ISP (Image Signal Processor) with lightweight CNNs
     - Developed demosaicing, denoising, image enhancement and super-resolution algorithms
     - Generated datasets based on target applications using Samsung Exynos ISP chain
+    - Implemented C++ model of CNN for verification of hardware ISP chain
 
 **Seoul National University**, Seoul, South Korea - **_Ph.D. student_** (Mar. 2012 - Feb. 2019)  
   Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
