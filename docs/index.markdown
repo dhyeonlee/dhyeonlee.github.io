@@ -92,5 +92,5 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
 - Sunwoong Kim, **Donghyeon Lee**, Hyun Kim, Nguyen Xuan Truong, and Jin-Sung Kim, "An enhanced one-dimensional SPIHT algorithm and its implementation for TV systems," Elsevier Displays Journal, vol. 40, pp. 68-77, Dec. 2015.
 [[link]](https://www.sciencedirect.com/science/article/pii/S0141938215000943)
 
-### Dissertion
+### Dissertation
 **Donghyeon Lee**, “On-chip memory reduction in CNN hardware design for image super-resolution”, Ph.D. Dissertation, Seoul National University, Feb. 2019. [[link]](https://s-space.snu.ac.kr/handle/10371/151952)
