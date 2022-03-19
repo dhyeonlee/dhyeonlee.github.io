@@ -25,7 +25,7 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
 -----
 
 ## Educations
-**Seoul National University**, Seoul, Korea - **_Ph.D._** in Electrical and Computer Engineering (Mar. 2021 - Feb. 2019)  
+**Seoul National University**, Seoul, Korea - **_Ph.D._** in Electrical and Computer Engineering (Mar. 2012 - Feb. 2019)  
 **Sogang University**, Seoul, Korea, - **_B.S._** in Electronic Engineering (Cum laude, Mar. 2008 - Feb. 2012)
 
 -----
