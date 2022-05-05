@@ -33,15 +33,15 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
 -----
 
 ## Experiences on Research & Development
-**Samsung Electronics**, Hwaseong-si, Gyeonggi-do, South Korea - **_Staff Engineer_** (Mar. 2019 - Present)  
-  Multimedia Development team, System LSI division
+**Samsung Electronics**, Hwaseong-si, Gyeonggi-do, South Korea, (Mar. 2019 - Present)  
+  **_Staff Engineer_** / Multimedia Development team, System LSI division
 - Development of algorithms for Samsung Exynos ISP (Image Signal Processor) with lightweight CNNs
     - Developed demosaicing, denoising, image enhancement and super-resolution algorithms
     - Generated datasets based on target applications using Samsung Exynos ISP chain
     - Implemented C++ model of CNN for verification of hardware ISP chain
 
-**Seoul National University**, Seoul, South Korea - **_Ph.D. student_** (Mar. 2012 - Feb. 2019)  
-  Computer Architecture and Parallel Processing Lab. 
+**Seoul National University**, Seoul, South Korea, (Mar. 2012 - Feb. 2019)  
+  **_Ph.D. student_**  / Computer Architecture and Parallel Processing Lab. 
 - Deep learning-based image super-resolution algorithm and its hardware implementation  
   (**Project leader**, Mar. 2017 - Feb. 2019, Sponsored by LG Display)
     - Hardware design of 1D filter CNN: reduced the number of parameters of a CNN to 55.6%  
