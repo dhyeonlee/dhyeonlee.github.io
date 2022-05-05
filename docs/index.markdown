@@ -25,8 +25,10 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
 -----
 
 ## Educations
-**Seoul National University**, Seoul, Korea - **_Ph.D._** in Electrical and Computer Engineering (Mar. 2012 - Feb. 2019)  
-**Sogang University**, Seoul, Korea, - **_B.S._** in Electronic Engineering (Cum laude, Mar. 2008 - Feb. 2012)
+**Seoul National University**, Seoul, Korea, (Mar. 2012 - Feb. 2019)
+**_Ph.D._** in Electrical and Computer Engineering (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
+**Sogang University**, Seoul, Korea, (Mar. 2008 - Feb. 2012)
+**_B.S._** in Electronic Engineering (Cum laude)
 
 -----
 
@@ -39,16 +41,16 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
     - Implemented C++ model of CNN for verification of hardware ISP chain
 
 **Seoul National University**, Seoul, South Korea - **_Ph.D. student_** (Mar. 2012 - Feb. 2019)  
-  Computer Architecture and Parallel Processing Lab. (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
+  Computer Architecture and Parallel Processing Lab. 
 - Deep learning-based image super-resolution algorithm and its hardware implementation  
-  (Participated as a **Project leader**, Mar. 2017 - Feb. 2019, Sponsored by LG Display)
+  (**Project leader**, Mar. 2017 - Feb. 2019, Sponsored by LG Display)
     - Hardware design of 1D filter CNN: reduced the number of parameters of a CNN to 55.6%  
       Publications: JETCAS '19, AICAS '19
     - Image enhancement using GANs: improved image quality (PSNR 0.75 dB (×2), 0.32 dB (×4)) through modifications of discriminator network architecture and perceptual loss  
       Publication: Access '19
 
 - Real-time hand detection and tracking algorithms for embedded system  
-  (Participaed as a **Project leader**, Mar. 2014 - Feb. 2017, Sponsored by Hancom MDS, eWBM)
+  (**Project leader**, Mar. 2014 - Feb. 2017, Sponsored by Hancom MDS, eWBM)
     - Custom feature extraction and object analysis in the raster scan order. 
     - The hand detection accuracy of this algorithm is 97.11%. It runs in real-time (34.9 fps) on Nvidia Jetson-TK1 embedded board.  
       Publication: Displays '18; Demo at CES '17 Eureka Park
