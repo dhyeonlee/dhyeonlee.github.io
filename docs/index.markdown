@@ -26,7 +26,7 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
 
 ## Educations
 ### **Seoul National University**, Seoul, Korea, (Mar. 2012 - Feb. 2019)
-  **_Ph.D._** in Electrical and Computer Engineering (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
+  **_Ph.D._** in Electrical and Computer Engineering (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))  
 
 ### **Sogang University**, Seoul, Korea, (Mar. 2008 - Feb. 2012)
   **_B.S._** in Electronic Engineering (Cum laude)
