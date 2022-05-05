@@ -25,22 +25,23 @@ GitHub: [https://github.com/dhyeonlee](https://github.com/dhyeonlee)
 -----
 
 ## Educations
-**Seoul National University**, Seoul, Korea, (Mar. 2012 - Feb. 2019)
-**_Ph.D._** in Electrical and Computer Engineering (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
-**Sogang University**, Seoul, Korea, (Mar. 2008 - Feb. 2012)
-**_B.S._** in Electronic Engineering (Cum laude)
+### **Seoul National University**, Seoul, Korea, (Mar. 2012 - Feb. 2019)
+  **_Ph.D._** in Electrical and Computer Engineering (Advisor: [Prof. Hyuk-Jae Lee](mailto:hjlee@capp.snu.ac.kr))
+
+### **Sogang University**, Seoul, Korea, (Mar. 2008 - Feb. 2012)
+  **_B.S._** in Electronic Engineering (Cum laude)
 
 -----
 
 ## Experiences on Research & Development
-**Samsung Electronics**, Hwaseong-si, Gyeonggi-do, South Korea, (Mar. 2019 - Present)  
+### **Samsung Electronics**, Hwaseong-si, Gyeonggi-do, South Korea, (Mar. 2019 - Present)  
   **_Staff Engineer_** / Multimedia Development team, System LSI division
 - Development of algorithms for Samsung Exynos ISP (Image Signal Processor) with lightweight CNNs
     - Developed demosaicing, denoising, image enhancement and super-resolution algorithms
     - Generated datasets based on target applications using Samsung Exynos ISP chain
     - Implemented C++ model of CNN for verification of hardware ISP chain
 
-**Seoul National University**, Seoul, South Korea, (Mar. 2012 - Feb. 2019)  
+### **Seoul National University**, Seoul, South Korea, (Mar. 2012 - Feb. 2019)  
   **_Ph.D. student_**  / Computer Architecture and Parallel Processing Lab. 
 - Deep learning-based image super-resolution algorithm and its hardware implementation  
   (**Project leader**, Mar. 2017 - Feb. 2019, Sponsored by LG Display)
